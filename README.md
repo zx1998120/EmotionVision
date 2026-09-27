@@ -1,6 +1,6 @@
-EmotionVision
+# EmotionVision
 
-Real-Time Facial Expression Recognition System
+## Real-Time Facial Expression Recognition System
 
 EmotionVision is a real-time facial expression recognition system built with Python, PyTorch/TensorFlow, OpenCV, and Convolutional Neural Networks (CNNs).
 
@@ -14,7 +14,7 @@ The system captures facial images from a webcam, detects faces in real time, and
 * Fear
 * Disgust
 
-Features
+# Features
 
 * Real-time facial expression recognition using webcam input
 * CNN-based deep learning model for emotion classification
